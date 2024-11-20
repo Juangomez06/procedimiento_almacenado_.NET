@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\procedimientos_almacenados_API.props" />
+</Project>

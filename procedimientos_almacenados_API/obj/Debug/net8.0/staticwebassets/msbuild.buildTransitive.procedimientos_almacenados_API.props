@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\procedimientos_almacenados_API.props" />
+</Project>
